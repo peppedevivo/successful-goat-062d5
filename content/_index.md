@@ -11,7 +11,7 @@ sections:
       - label: Let's talk
         url: /contact
         style: button
-        - label: Let's talk
+    - label: Let's talk
         url: /contact
         style: button
   - section_id: latest-projects
