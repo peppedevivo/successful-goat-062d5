@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Storia del Calcio di URSS e Russia.'
     content: >-
-      Ho deciso di mettere la mia tesi triennale in Scienze politiche e relazioni Internazionali su internet. Mi sono laureato in pieno primo lockdown e alla fine la tesi non l'ho più stampata, per questo ho deciso di 
+      Ho deciso di mettere la mia tesi triennale in Scienze politiche e relazioni Internazionali su internet. Mi sono laureato in pieno primo lockdown e alla fine la tesi non l'ho più stampata, per questo ho deciso di metterla qui
     actions:
       - label: Let's talk
         url: /contact
