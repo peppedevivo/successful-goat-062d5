@@ -11,9 +11,7 @@ sections:
       - label: Let's talk
         url: /contact
         style: button
-        - label: Let's talk
-        url: /contact
-        style: button
+        
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
