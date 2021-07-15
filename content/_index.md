@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Storia del Calcio di URSS e Russia.'
     content: >-
-      Ho deciso di mettere la mia tesi triennale in Scienze politiche e relazioni Internazionali 
+      Ho deciso di mettere la mia tesi triennale in Scienze politiche e relazioni Internazionali
     actions:
       - label: Let's talk
         url: /contact
