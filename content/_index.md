@@ -12,7 +12,7 @@ sections:
         url: /contact
         style: button
     - label: Let's talk
-        url: /contact
+        url: /blog
         style: button
   - section_id: latest-projects
     type: section_portfolio
